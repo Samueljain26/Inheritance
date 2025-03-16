@@ -68,3 +68,6 @@ class Intern extends Employee {
         System.out.println("Intern -> ID: " + id + ", Name: " + name + ", Salary: $" + salary + ", Internship Duration: " + internshipDuration + " months");
     }
 }
+/*Manager -> ID: 101, Name: Alice, Salary: $90000.0, Team Size: 5
+Developer -> ID: 102, Name: Bob, Salary: $70000.0, Programming Language: Java
+Intern -> ID: 103, Name: Charlie, Salary: $30000.0, Internship Duration: 6 months */
