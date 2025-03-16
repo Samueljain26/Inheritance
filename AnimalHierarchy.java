@@ -57,3 +57,7 @@ class Bird extends Animal {
         System.out.println(name + " chirps");
     }
 }
+/*Buddy barks
+Whiskers meows
+Tweety chirps
+ */
